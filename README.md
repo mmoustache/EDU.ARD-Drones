@@ -1,2 +1,2 @@
-# edu.ard
+# EDU.ARD Mini Drone
 Releases
