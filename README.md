@@ -1,2 +1,2 @@
 # EDU.ARD Mini Drone
-Releases
+Flight firmware and Scratch3 releases
